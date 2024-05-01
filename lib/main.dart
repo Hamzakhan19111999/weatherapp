@@ -18,18 +18,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
- /*
-
-      ).copyWith(
-        appBarTheme: const AppBarTheme(
-          backgroundColor: Colors.transparent,
-          //elevation: 0,
-          iconTheme:IconThemeData(
-            color: Colors.white,
-          ),
-        )
-
-       */

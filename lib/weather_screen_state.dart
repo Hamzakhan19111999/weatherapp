@@ -23,13 +23,11 @@ abstract class WeatherScreenState extends State<WeatherScreen> {
     } catch(e){
       throw e.toString();
     }
-   //String cityName = 'London';
   
   } 
 }
   
 
-// Stateful Widget of Previous Code
 
 
 
